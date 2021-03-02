@@ -5,12 +5,6 @@
 
 ### ✨ [Essayez par vous-même](http://drag.simon-projets.com)
 
-## Install
-
-```sh
-npm install
-```
-
 ## Author
 
 👤 **Simon Silvestre**
